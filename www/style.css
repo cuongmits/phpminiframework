@@ -1,0 +1,11 @@
+header, footer {
+    background: #a6e1ec;
+    padding: 20px;
+}
+#wrapper {
+    background: azure;
+    padding: 20px;
+}
+.bg-success {
+    padding: 20px;
+}

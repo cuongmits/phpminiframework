@@ -1,0 +1,9 @@
+header, footer {
+    background: #a94442;
+    padding: 20px;
+    color: white;
+}
+#wrapper {
+    background: azure;
+    padding: 20px;
+}
